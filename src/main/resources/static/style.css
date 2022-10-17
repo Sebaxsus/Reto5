@@ -1,0 +1,51 @@
+body {
+    height: 2000px;
+    background-image: url("FondoCool.JPG");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+thead {
+    font-weight: bold;
+}
+
+.tabla1 {
+    background-color: rgb(188, 192, 188);
+    border-radius: 15px;
+
+}
+
+.tabla2 {
+    background-color: rgb(138, 80, 255);
+    border-radius: 15px;
+
+}
+
+.tabla3 {
+    background-color: rgb(204, 255, 204);
+    border-radius: 15px;
+
+}
+
+.tabla4 {
+    background-color: rgb(37, 247, 243);
+    border-radius: 15px;
+
+}
+
+.tabla5 {
+    background-color: rgb(229, 152, 102);
+    border-radius: 15px;
+
+}
+
